@@ -1,0 +1,25 @@
+.title {
+    text-align: center;
+}
+.addBtn {
+    margin: 0px 0px 0px 102px;
+}
+.tableHeader {
+    background-color: lightgrey;
+    height: 50px;
+    margin-top: 28px;
+}
+.tableTitle {
+    padding-top: 13px;
+}
+.editBtn {
+    margin-right: 12px;
+}
+.data {
+    padding-top: 12px;
+}
+.updateBtn {
+    position: absolute;
+    left: 750px;
+    z-index: 12;
+}

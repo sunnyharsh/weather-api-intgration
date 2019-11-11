@@ -1,0 +1,85 @@
+{
+    "status": 1,
+    "message": "Success",
+    "data": [
+        {
+            "location": {
+                "name": "Bengaluru, India",
+                "zipcode": "560102",
+                "lat": "12.909",
+                "long": "77.651",
+                "timezone": "5.5",
+                "alert": "",
+                "degreetype": "F",
+                "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+            },
+            "current": {
+                "temperature": "81",
+                "skycode": "30",
+                "skytext": "Partly Sunny",
+                "date": "2019-11-11",
+                "observationtime": "17:30:00",
+                "observationpoint": "560102, India",
+                "feelslike": "81",
+                "humidity": "45",
+                "winddisplay": "0 mph",
+                "day": "Monday",
+                "shortday": "Mon",
+                "windspeed": "0 mph",
+                "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/30.gif"
+            },
+            "forecast": [
+                {
+                    "low": "69",
+                    "high": "83",
+                    "skycodeday": "29",
+                    "skytextday": "Partly Cloudy",
+                    "date": "2019-11-10",
+                    "day": "Sunday",
+                    "shortday": "Sun",
+                    "precip": ""
+                },
+                {
+                    "low": "70",
+                    "high": "83",
+                    "skycodeday": "28",
+                    "skytextday": "Mostly Cloudy",
+                    "date": "2019-11-11",
+                    "day": "Monday",
+                    "shortday": "Mon",
+                    "precip": "40"
+                },
+                {
+                    "low": "69",
+                    "high": "83",
+                    "skycodeday": "28",
+                    "skytextday": "Mostly Cloudy",
+                    "date": "2019-11-12",
+                    "day": "Tuesday",
+                    "shortday": "Tue",
+                    "precip": "0"
+                },
+                {
+                    "low": "68",
+                    "high": "82",
+                    "skycodeday": "30",
+                    "skytextday": "Partly Sunny",
+                    "date": "2019-11-13",
+                    "day": "Wednesday",
+                    "shortday": "Wed",
+                    "precip": "20"
+                },
+                {
+                    "low": "69",
+                    "high": "82",
+                    "skycodeday": "9",
+                    "skytextday": "Light Rain",
+                    "date": "2019-11-14",
+                    "day": "Thursday",
+                    "shortday": "Thu",
+                    "precip": "60"
+                }
+            ]
+        }
+    ]
+}
